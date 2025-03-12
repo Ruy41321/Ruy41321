@@ -26,15 +26,15 @@ In the near future, I hope to:
 
 |              project 1                                                   |                                 project 2                                        |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|    **[Cub3D](https://github.com/Ruy41321/42_Cub3D)**                     |                        **[AlienEggs](https://github.com/Ruy41321/AlienEggs)**                          |
+|    **[Cub3D](https://github.com/Ruy41321/42_Cub3D)**                     |              **[AlienEggs](https://github.com/Ruy41321/AlienEggs)**              |
 |   Rendering a maze using raycasting and the DDA algorithm                |                   A 2D game where you have to run from an Alien                  |
-|  ![GIF 1](https://github.com/Ruy41321/42_Cub3D/blob/main/extra/cub.gif)  |  ![GIF 2](https://github.com/Ruy41321/AlienEggs/blob/main/extra/execution.gif)   |
+|  <img src="https://github.com/Ruy41321/42_Cub3D/blob/main/extra/cub.gif" width="420" height="215"> |  <img src="https://github.com/Ruy41321/AlienEggs/blob/main/extra/execution.gif" width="420" height="215"> |
 
 |              project 3                                  |                      project 4                             |
 |---------------------------------------------------------|------------------------------------------------------------|
 |    **[JTrash](https://github.com/Ruy41321/JTrash)**     |      **[So Long](https://github.com/Ruy41321/42_SoLong)**  |
 |            A Card Game for Windows                      |            A basic 2D game developed in C using Minilibx   |
-|<a href="https://youtu.be/iM-lA3DXjxs" target="_blank"><img src="https://github.com/Ruy41321/JTrash/assets/100509825/3f568ddb-419b-4d58-b762-58f47fc2dc5c" width="480" height="250" /></a> | <img src="https://github.com/Ruy41321/42_SoLong/blob/main/extra/execution.gif" width="480" height="250"> |
+|<a href="https://youtu.be/iM-lA3DXjxs" target="_blank"><img src="https://github.com/Ruy41321/JTrash/assets/100509825/3f568ddb-419b-4d58-b762-58f47fc2dc5c"  width="420" height="215" /></a> | <img src="https://github.com/Ruy41321/42_SoLong/blob/main/extra/execution.gif"  width="420" height="215"> |
 
 #### 🛠️ Other Projects
 
@@ -42,7 +42,7 @@ In the near future, I hope to:
 |--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 |    **[Minishell](https://github.com/Ruy41321/42_Minishell)**                                                 | **[Philosophers](https://github.com/Ruy41321/42_Philosophers)**                                                             |
 |   Developed my own simple shell in C based on the behavior of Bash.                                          | Created a program in C that simulates the behavior of N concurrent threads based on the famous Dining Philosophers Problem  |
-|  <img src="https://github.com/Ruy41321/42_Minishell/blob/main/extra/minishell.gif" width="470" height="250"> |  <img src="https://github.com/Ruy41321/42_Philosophers/blob/main/extra/execution.gif" width="470" height="250">             |
+|  <img src="https://github.com/Ruy41321/42_Minishell/blob/main/extra/minishell.gif" width="400" height="210"> |  <img src="https://github.com/Ruy41321/42_Philosophers/blob/main/extra/execution.gif" width="400" height="210">             |
 
 ---
 
