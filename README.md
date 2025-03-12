@@ -4,6 +4,7 @@ I'm a passionate game developer who loves creating wonderful games and studies w
 
 ### 🚀 About Me
 My name is **Luigi**, and I'm a developer with a strong passion for games. I enjoy taking on new challenges and working on interesting projects that help me grow. When I'm not coding, you'll find me on Discord playing my favorite games or outside enjoying nature, thinking about how to recreate what I see virtually.
+- [My Curriculum](CV_EN_Pennisi_Luigi.pdf)
 
 ### 🚀 Future Goals
 In the near future, I hope to:
