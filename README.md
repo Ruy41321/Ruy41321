@@ -8,7 +8,7 @@ My name is **Luigi**, and I'm a developer with a strong passion for games. I enj
 
 ### 🚀 Future Goals
 In the near future, I hope to:
-- 🛠️ Work at a game development company.
+- 🛠️ Work as game developer.
 
 ---
 
