@@ -28,8 +28,8 @@ In the near future, I hope to:
 
 |              **[TargetShootingGame](https://github.com/Ruy41321/TargetShootingGame)**                                          |                                 **[IceSkating](https://github.com/Ruy41321/IceSkating)**                                        |
 |-----------------------------------------------------------------|----------------------------------------------------------------------------------|
-|     A simple FPS learning project in Unreal Engine 5.6         |                   A 2D Multiplayer Puzzle Game                  |
-|  <img src="https://github.com/Ruy41321/TargetShootingGame/blob/master/Extra/MiniPreview.png" width="420" height="215"> |  <img src="https://github.com/Ruy41321/IceSkating/blob/main/extra/preview.gif" width="420" height="215"> |
+|     A simple FPS learning project in Unreal Engine 5.6         |                   A 2D Multiplayer Puzzle Game with Procedural Maps                  |
+|  <img src="https://github.com/Ruy41321/TargetShootingGame/blob/master/Extra/MiniPreview.png" width="420" height="215"> |  <img src="https://github.com/Ruy41321/IceSkating/blob/master/extra/Preview.gif" width="420" height="215"> |
 
 |              **[Cub3D](https://github.com/Ruy41321/42_Cub3D)**                                                   |                                 **[JTrash](https://github.com/Ruy41321/JTrash)**                                        |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------|
