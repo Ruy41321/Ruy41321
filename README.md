@@ -65,6 +65,8 @@ I am a software engineer dedicated to building immersive 3D experiences and high
 - **ITI B. Lucarelli**: Information Technology & Telecommunications (100/100).
 - **Cisco Networking Academy**: CCNAv7, IT Essentials, Cybersecurity.
 
+[![lpennisi's 42 stats](https://badge.mediaplus.ma/greenbinary/lpennisi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ---
 
 ### 📫 Connect with me
@@ -82,16 +84,8 @@ I am a software engineer dedicated to building immersive 3D experiences and high
 ---
 
 ### 📊 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruy41321&show_icons=true&count_private=true&hide=prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruy41321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruy41321&show_icons=true&count_private=true&hide=prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruy41321&layout=compact)
 
 ### 📈 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruy41321&theme=react-dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruy41321&theme=dark)
 
-### 🏫 42 School Progress
-[![lpennisi's 42 stats](https://badge.mediaplus.ma/greenbinary/lpennisi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
----
-
-Thanks for visiting my profile! 👾
