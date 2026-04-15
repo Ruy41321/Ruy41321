@@ -21,29 +21,34 @@ I am a software engineer dedicated to building immersive 3D experiences and high
 
 *Click on project names to view the GitHub repository*
 
-|              **[TargetShootingGame](https://github.com/Ruy41321/TargetShootingGame)**                                          |                                 **[IceSkating](https://github.com/Ruy41321/IceSkating)**                                        |
+| **[Arena](https://github.com/Ruy41321/Arena)**                  |  **[TargetShootingGame](https://github.com/Ruy41321/TargetShootingGame)** |
 |-----------------------------------------------------------------|----------------------------------------------------------------------------------|
-|     A simple FPS learning project in Unreal Engine 5.6         |                   A 2D Multiplayer Puzzle Game with Procedural Maps                  |
-|  <img src="https://github.com/Ruy41321/TargetShootingGame/blob/main/Extra/MiniPreview.png" width="420" height="215"> |  <img src="https://github.com/Ruy41321/IceSkating/blob/main/extra/Preview.gif" width="420" height="215"> |
+|     UE5 C++ Project &#124; GAS System &#124; Multiplayer 1v1 Melee <br> RPG Combat System |    A simple FPS learning project in Unreal Engine 5.6                   |
+| <a href="https://github.com/Ruy41321/Arena" target="_blank"><img src="https://img.youtube.com/vi/7plB67gLEM4/maxresdefault.jpg" width="420" height="215"></a> |  <a href="https://github.com/Ruy41321/TargetShootingGame" target="_blank"><img src="https://github.com/Ruy41321/TargetShootingGame/blob/main/Extra/MiniPreview.png" width="420" height="215"></a> |
 
-|              **[Cub3D](https://github.com/Ruy41321/42_Cub3D)**                                                   |                                 **[JTrash](https://github.com/Ruy41321/JTrash)**                                        |
+| **[IceSkating](https://github.com/Ruy41321/IceSkating)** |  **[JTrash](https://github.com/Ruy41321/JTrash)**         |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|   Rendering a maze using raycasting and the DDA algorithm                |                   A Card Game for Windows                  |
-|  <img src="https://github.com/Ruy41321/42_Cub3D/blob/main/extra/cub.gif" width="420" height="215"> |  <a href="https://youtu.be/iM-lA3DXjxs" target="_blank"><img src="https://github.com/Ruy41321/JTrash/assets/100509825/3f568ddb-419b-4d58-b762-58f47fc2dc5c" width="420" height="215" /></a> |
+|    A 2D Multiplayer Puzzle Game with Procedural Maps      |                   A Card Game for Windows                 |
+| <a href="https://github.com/Ruy41321/IceSkating" target="_blank"><img src="https://github.com/Ruy41321/IceSkating/blob/main/extra/Preview.gif" width="420" height="215"></a> |  <a href="https://github.com/Ruy41321/JTrash" target="_blank"><img src="https://github.com/Ruy41321/JTrash/assets/100509825/3f568ddb-419b-4d58-b762-58f47fc2dc5c" width="420" height="215" /></a> |
 
-|              **[Dracula_Rising](https://github.com/Ruy41321/Dracula_Rising)**                                  |                      **[AlienEggs](https://github.com/Ruy41321/AlienEggs)**                             |
+|  **[Dracula_Rising](https://github.com/Ruy41321/Dracula_Rising)**        |  **[AlienEggs](https://github.com/Ruy41321/AlienEggs)**   |
 |---------------------------------------------------------|------------------------------------------------------------|
-|            A classic Platformer inspired by old Castlevania games                      |            A 2D game where you have to run from an Alien   |
-| <img src="https://github.com/Ruy41321/Dracula_Rising/blob/main/extra/preview.gif"  width="420" height="215"> | <img src="https://github.com/Ruy41321/AlienEggs/blob/main/extra/execution.gif" width="420" height="215"> |
+|  A classic Platformer inspired by old Castlevania games                  |  A 2D game where you have to run from an Alien            |
+| <a href="https://github.com/Ruy41321/Dracula_Rising" target="_blank"><img src="https://github.com/Ruy41321/Dracula_Rising/blob/main/extra/preview.gif"  width="420" height="215"></a> | <a href="https://github.com/Ruy41321/AlienEggs" target="_blank"><img src="https://github.com/Ruy41321/AlienEggs/blob/main/extra/execution.gif" width="420" height="215"></a> |
 
 #### 🛠️ Other Projects
 
 *Click on project names to view the GitHub repository*
 
-|              **[Minishell](https://github.com/Ruy41321/42_Minishell)**                                                                                       |                                 **[Philosophers](https://github.com/Ruy41321/42_Philosophers)**                                                                                   |
-|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-|   <div style="max-width: 420px;">Developed my own simple shell in C based <br>on the behavior of Bash.</div>                                          | <div style="max-width: 420px;">Created a program in C that simulates the behavior of N <br>concurrent threads based on the famous<br> Dining Philosophers Problem</div>  |
-|  <img src="https://github.com/Ruy41321/42_Minishell/blob/main/extra/minishell.gif" width="420" height="215"> |  <img src="https://github.com/Ruy41321/42_Philosophers/blob/main/extra/execution.gif" width="420" height="215">             |
+| **[CardGames](https://github.com/Ruy41321/CardGames_WebTableSimulator)** |  **[ft_trascendence](https://github.com/Ruy41321/42_Trascendence)** |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------|
+|  <a href="https://github.com/Ruy41321/CardGames_WebTableSimulator" target="_blank"><div style="max-width: 420px;">Web-App to simulate a Table to play the card game Here To Slay and more</div></a> | <a href="https://github.com/Ruy41321/42_Trascendence" target="_blank"><div style="max-width: 420px;">Web-App to play the Pong Game in real-time up to 4 players</div></a> |
+| <a href="https://github.com/Ruy41321/CardGames_WebTableSimulator" target="_blank"><img src="https://img.youtube.com/vi/MOPa95eNVTs/maxresdefault.jpg" width="420" height="215"></a> |  <a href="https://github.com/Ruy41321/42_Trascendence" target="_blank"><img src="https://github.com/Ruy41321/42_Trascendence/preview.gif" width="420" height="215"></a> |
+
+| **[Cub3D](https://github.com/Ruy41321/42_Cub3D)**                        |                                                                     |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------|
+|   Rendering a maze using raycasting and the DDA algorithm                |                                                                     |
+| <a href="https://github.com/Ruy41321/42_Cub3D" target="_blank"><img src="https://github.com/Ruy41321/42_Cub3D/blob/main/extra/cub.gif" width="420" height="215"></a> |                                                                     |
 
 ---
 
