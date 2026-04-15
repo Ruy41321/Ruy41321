@@ -1,22 +1,25 @@
 # Hi, I'm Luigi Pennisi 👋
+**Gameplay Engineer | Focused on 3D Game Development with Unreal Engine 5**
 
-I'm a passionate game developer who loves creating wonderful games and studies with dedication to reach this goal! 👨‍💻
+I am a software engineer dedicated to building immersive 3D experiences and high-performance gameplay systems. Currently an **Advanced student at 42 Roma Luiss**, I am leveraging my strong C/C++ foundations to specialize in **Unreal Engine 5** and complex RPG mechanics.
 
-### 🚀 About Me
-My name is **Luigi**, and I'm a developer with a strong passion for games. I enjoy taking on new challenges and working on interesting projects that help me grow. When I'm not coding, you'll find me on Discord playing my favorite games or outside enjoying nature, thinking about how to recreate what I see virtually.
-- [My Curriculum](CV_EN_Pennisi_Luigi.pdf)
-
-### 🚀 Future Goals
-In the near future, I hope to:
-- 🛠️ Work as game developer.
+- [My Curriculum](cv-pennisiluigi.pdf)
 
 ---
 
-### 💻 Technologies I Use
+### 🚀 Technical Summary
+- **Current Focus**: Mastering **Unreal Engine 5** for 3D game development, including GAS, locomotion, and AI systems.
+- **Background**: Completed the **42 Roma Common Core** (Level 10), acquiring expert-level mastery of **C/C++**, memory management, and systems programming.
+- **Specialization**: Architecture of modular gameplay systems, 3D character locomotion, and combat mechanics.
+- **Math**: Strong command of **3D Mathematics**, Raycasting, and Linear Algebra applied to real-time rendering and physics.
 
-- **Programming Languages**: C, C++, GDScript, Blueprints, Java, Python, JavaScript
-- **Game Engines**: Godot 4, Unreal Engine 5
-- **Databases**: MySQL, MariaDB
+---
+
+### 💻 Core Technologies
+- **Game Engines**: `Unreal Engine 5` (Advanced), `Godot 4`.
+- **Languages**: `C++`, `C`, `GDScript`, `Python`, `JavaScript`, `PHP`, `Java`.
+- **Frameworks & Patterns**: Gameplay Ability System (GAS), MVC, State Machines, Observer Pattern.
+- **Tools**: `Git`, `Docker`, `Linux/Unix environments`.
 
 ---
 
@@ -51,23 +54,20 @@ In the near future, I hope to:
 |  <img src="https://github.com/Ruy41321/42_Minishell/blob/main/extra/minishell.gif" width="420" height="215"> |  <img src="https://github.com/Ruy41321/42_Philosophers/blob/main/extra/execution.gif" width="420" height="215">             |
 
 ---
+### 🎓 Education & Certifications
+- **42 Roma Luiss**: Common Core Curriculum (Level 10 Completed) - *Ongoing Advanced Specialization in [Graphics & Gaming, Algo & AI & Data]*.
+- **ITI B. Lucarelli**: Information Technology & Telecommunications (100/100).
+- **Cisco Networking Academy**: CCNAv7, IT Essentials, Cybersecurity.
 
-### 🎓 Education
+---
 
-- **[Industrial Technical Institute "Bosco Lucarelli"](https://www.itilucarelli.edu.it/)**, Benevento  
-  *High School Diploma* - **100/100** (2022)  
-  *Top 10 in the [World's Best School Prizes 2025](https://t4.education/worlds-best-school-prizes/)*
+### 📫 Connect with me
+- 💼 **LinkedIn**: [Luigi Pennisi](https://www.linkedin.com/in/luigi-pennisi-03271922b/)
+- 📧 **Email**: luigipennisi01@gmail.com
+- 🌐 **Portfolio**: [luigipennisi.dev](https://luigipennisi.dev)
+- 🎮 **Itch.io**: [Ruy41321](https://ruy41321.itch.io)
 
-- **[42 Roma Luiss](https://42roma.it/)**  
-  *Common Core Program* - Currently attending  
-  *3rd most innovative university worldwide in 2025 ([WURI Rankings](https://www.wuri.world/wuri-ranking-2025))*
-
-### 📍 How I Can Help
-If you're looking for a collaborator on an exciting project, or just want to chat about technology, feel free to reach out! 💬
-
-### 📫 How to Contact Me
-- 💼 LinkedIn: [Luigi Pennisi](https://www.linkedin.com/in/luigi-pennisi-03271922b/)
-- 📧 Email: [luigipennisi14@gmail.com](mailto:luigipennisi14@gmail.com)
+---
 
 ### 🌐 Languages
 - 🇮🇹 **Italian**: Native
