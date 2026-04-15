@@ -42,13 +42,13 @@ I am a software engineer dedicated to building immersive 3D experiences and high
 
 | **[CardGames](https://github.com/Ruy41321/CardGames_WebTableSimulator)** |  **[ft_trascendence](https://github.com/Ruy41321/42_Trascendence)** |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------|
-|  <a href="https://github.com/Ruy41321/CardGames_WebTableSimulator" target="_blank"><div style="max-width: 420px;">Web-App to simulate a Table to play the card game Here To Slay and more</div></a> | <a href="https://github.com/Ruy41321/42_Trascendence" target="_blank"><div style="max-width: 420px;">Web-App to play the Pong Game in real-time up to 4 players</div></a> |
-| <a href="https://github.com/Ruy41321/CardGames_WebTableSimulator" target="_blank"><img src="https://img.youtube.com/vi/MOPa95eNVTs/maxresdefault.jpg" width="420" height="215"></a> |  <a href="https://github.com/Ruy41321/42_Trascendence" target="_blank"><img src="https://github.com/Ruy41321/42_Trascendence/preview.gif" width="420" height="215"></a> |
+| Web-App that simulates a Table to play card games like<br> Here To Slay and more in real-time with friends online.| Web-App to play the Pong Game in real-time up to <br>4 players online with your friends. |
+| <a href="https://github.com/Ruy41321/CardGames_WebTableSimulator" target="_blank"><img src="https://img.youtube.com/vi/MOPa95eNVTs/maxresdefault.jpg" width="420" height="215"></a> |  <a href="https://github.com/Ruy41321/42_Trascendence" target="_blank"><img src="https://github.com/Ruy41321/42_Trascendence/blob/main/preview.gif" width="420" height="215"></a> |
 
-| **[Cub3D](https://github.com/Ruy41321/42_Cub3D)**                        |                                                                     |
-|--------------------------------------------------------------------------|---------------------------------------------------------------------|
-|   Rendering a maze using raycasting and the DDA algorithm                |                                                                     |
-| <a href="https://github.com/Ruy41321/42_Cub3D" target="_blank"><img src="https://github.com/Ruy41321/42_Cub3D/blob/main/extra/cub.gif" width="420" height="215"></a> |                                                                     |
+| **[Cub3D](https://github.com/Ruy41321/42_Cub3D)** |                           
+|---------------------------------------------------|
+|   Rendering a maze using raycasting and the DDA algorithm  |
+| <a href="https://github.com/Ruy41321/42_Cub3D" target="_blank"><img src="https://github.com/Ruy41321/42_Cub3D/blob/main/extra/cub.gif" width="420" height="215"></a> |
 
 ---
 
