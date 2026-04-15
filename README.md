@@ -15,14 +15,6 @@ I am a software engineer dedicated to building immersive 3D experiences and high
 
 ---
 
-### 💻 Core Technologies
-- **Game Engines**: `Unreal Engine 5` (Advanced), `Godot 4`.
-- **Languages**: `C++`, `C`, `GDScript`, `Python`, `JavaScript`, `PHP`, `Java`.
-- **Frameworks & Patterns**: Gameplay Ability System (GAS), MVC, State Machines, Observer Pattern.
-- **Tools**: `Git`, `Docker`, `Linux/Unix environments`.
-
----
-
 ### 💥 Some of My Projects
 
 #### 🎮 Games
@@ -54,6 +46,15 @@ I am a software engineer dedicated to building immersive 3D experiences and high
 |  <img src="https://github.com/Ruy41321/42_Minishell/blob/main/extra/minishell.gif" width="420" height="215"> |  <img src="https://github.com/Ruy41321/42_Philosophers/blob/main/extra/execution.gif" width="420" height="215">             |
 
 ---
+
+### 💻 Core Technologies
+- **Game Engines**: `Unreal Engine 5` (Advanced), `Godot 4`.
+- **Languages**: `C++`, `C`, `GDScript`, `Python`, `JavaScript`, `PHP`, `Java`.
+- **Frameworks & Patterns**: Gameplay Ability System (GAS), MVC, State Machines, Observer Pattern.
+- **Tools**: `Git`, `Docker`, `Linux/Unix environments`.
+
+---
+
 ### 🎓 Education & Certifications
 - **42 Roma Luiss**: Common Core Curriculum (Level 10 Completed) - *Ongoing Advanced Specialization in [Graphics & Gaming, Algo & AI & Data]*.
 - **ITI B. Lucarelli**: Information Technology & Telecommunications (100/100).
