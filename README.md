@@ -21,10 +21,10 @@ I am a software engineer dedicated to building immersive 3D experiences and high
 
 *Click on project names to view the GitHub repository*
 
-| **[Arena](https://github.com/Ruy41321/Arena)**                  |  **[TargetShootingGame](https://github.com/Ruy41321/TargetShootingGame)** |
+| **[Makhìa](https://github.com/Ruy41321/Makhia)**                  |  **[TargetShootingGame](https://github.com/Ruy41321/TargetShootingGame)** |
 |-----------------------------------------------------------------|----------------------------------------------------------------------------------|
-|     UE5 C++ Project &#124; GAS System &#124; Multiplayer 1v1 Melee <br> RPG Combat System |    A simple FPS learning project in Unreal Engine 5.6                   |
-| <a href="https://github.com/Ruy41321/Arena" target="_blank"><img src="https://img.youtube.com/vi/7plB67gLEM4/maxresdefault.jpg" width="390" height="215"></a> |  <a href="https://github.com/Ruy41321/TargetShootingGame" target="_blank"><img src="https://github.com/Ruy41321/TargetShootingGame/blob/main/Extra/MiniPreview.png" width="390" height="215"></a> |
+|     UE5 C++ Project &#124; GAS &#124; EOS P2P &#124; Multiplayer 1v1 <br> Melee RPG Combat System |    A simple FPS learning project in Unreal Engine 5.6                   |
+| <a href="https://github.com/Ruy41321/Makhia" target="_blank"><img src="https://github.com/Ruy41321/Makhia/blob/main/Extra/MakhiaGIF.gif" width="390" height="215"></a> |  <a href="https://github.com/Ruy41321/TargetShootingGame" target="_blank"><img src="https://github.com/Ruy41321/TargetShootingGame/blob/main/Extra/MiniPreview.png" width="390" height="215"></a> |
 
 | **[IceSkating](https://github.com/Ruy41321/IceSkating)** |  **[JTrash](https://github.com/Ruy41321/JTrash)**         |
 |--------------------------------------------------------------------------|----------------------------------------------------------------------------------|
