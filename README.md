@@ -3,7 +3,7 @@
 
 I am a software engineer dedicated to building immersive 3D experiences and high-performance gameplay systems. Currently an **Advanced student at 42 Roma Luiss**, I am leveraging my strong C/C++ foundations to specialize in **Unreal Engine 5** and complex RPG mechanics.
 
-- [My Curriculum](cv-pennisiluigi.pdf)
+- [My Curriculum](CV_PennisiLuigi.pdf)
 
 ---
 
